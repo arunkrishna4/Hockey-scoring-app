@@ -1,2 +1,1 @@
 # Hockey-scoring-app
-
