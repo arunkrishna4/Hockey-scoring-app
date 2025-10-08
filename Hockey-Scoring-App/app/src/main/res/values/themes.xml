@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.Hockey" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Status bar background -->
+        <item name="android:statusBarColor">@color/blue</item>
+        <!-- Light status bar icons -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- Main app theme -->
+    <style name="Theme.Hockey" parent="Base.Theme.Hockey">
+
+    </style>
+
+</resources>
